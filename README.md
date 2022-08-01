@@ -1,6 +1,6 @@
 # IBM Data Science Professional Certificate
 
-My Notes and Codes for IBM Data Analyst Certificate and IBM Data Science Certificate
+My Notes and Codes for IBM Data Analyst Certificate and IBM Data Science Certificate on Coursera.org
 
 ## IBM Data Analyst Certificate
 
