@@ -24,21 +24,21 @@ My Notes and Codes for IBM Data Analyst Certificate and IBM Data Science Certifi
 
 ## IBM Data Science Certificate
 
-[What is Data Science?](https://blog.zhuangzhihao.top/What-is-Data-Science/)
+[What is Data Science?](https://bezhuang.vercel.app/What-is-Data-Science/)
 
-[Tools for Data Science](https://blog.zhuangzhihao.top/Tools-for-Data-Science/)
+[Tools for Data Science](https://bezhuang.vercel.app/Tools-for-Data-Science/)
 
-[Data Science Methodology](https://blog.zhuangzhihao.top/Data-Science-Methodology/)
+[Data Science Methodology](https://bezhuang.vercel.app/Data-Science-Methodology/)
 
-[Python for Data Science, AI & Development](https://blog.zhuangzhihao.top/Python-for-Data-Science/)
+[Python for Data Science, AI & Development](https://bezhuang.vercel.app/Python-for-Data-Science/)
 
-[Python Project for Data Science](https://blog.zhuangzhihao.top/Python-Project-for-Data-Science/)
+[Python Project for Data Science](https://bezhuang.vercel.app/Python-Project-for-Data-Science/)
 
-[Databases and SQL for Data Science with Python](https://blog.zhuangzhihao.top/Databases-and-SQL-for-Data-Science/)
+[Databases and SQL for Data Science with Python](https://bezhuang.vercel.app/Databases-and-SQL-for-Data-Science/)
 
-[Data Visualization With Python](https://blog.zhuangzhihao.top/Data-Visualization-with-Python/)
+[Data Visualization With Python](https://bezhuang.vercel.app/Data-Visualization-with-Python/)
 
-[Data Analysis With Python](https://blog.zhuangzhihao.top/Data-Analysis-with-Python/)
+[Data Analysis With Python](https://bezhuang.vercel.app/Data-Analysis-with-Python/)
 
 Machine Learning with Python
 
